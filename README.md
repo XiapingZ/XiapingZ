@@ -1,5 +1,5 @@
 # Brief Intro
-Hi there, I’m @XiapingZ
+Hi there, I’m Xiaping.
 - I’m interested in statistics, CS and mathematics.
 - In my spare time, I enjoy playing electric guitar, watching interview, and rock climbing.  
 

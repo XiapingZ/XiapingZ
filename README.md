@@ -1,6 +1,6 @@
 # Brief Intro
 Hi there, I’m Xiaping.
-- I’m interested in statistics, CS and mathematics.
+- I’m interested in probability, statistics, and CS.
 - In my spare time, I enjoy playing electric guitar, watching talk show, and exercising.  
 
 Welcome!
